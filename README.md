@@ -58,10 +58,10 @@
 >
 > 有空来参加算法周更班直播，保持状态
 >
-> 算法新手班代码：https://github.com/algorithmzuo/algorithm-primary
-> 体系学习班代码：https://github.com/algorithmzuo/algorithmbasic2020
-> 大厂刷题班代码：https://github.com/algorithmzuo/coding-for-great-offer
-> 算法周更班代码：https://github.com/algorithmzuo/weekly-problems
+> * 算法新手班代码：https://github.com/algorithmzuo/algorithm-primary
+> * 体系学习班代码：https://github.com/algorithmzuo/algorithmbasic2020
+> * 大厂刷题班代码：https://github.com/algorithmzuo/coding-for-great-offer
+> * 算法周更班代码：https://github.com/algorithmzuo/weekly-problems
 
 
 

@@ -16,6 +16,8 @@ function selectionSort(arr) {
     }
     return arr;
 }
+// 当然不止这一种写法，也可以先挑最大的放到最后，依次进行下去。或者挑最大的放在最前面，依次进行下去。
+// 可以都写一写，可以帮助深入理解选择排序的算法思想。
 
 // 交换数组 arr 中位置 i 与位置 j 的数
 function swap(arr, i, j) {
